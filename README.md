@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Raphael QSR Amp (quasar-amplify)
 
 A Quasar Framework app
@@ -24,4 +25,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+=======
+>>>>>>> 6faea8847e5197328f7f9f5b108965cf823a2fa5
 "# Amplify-Dashboard" 
