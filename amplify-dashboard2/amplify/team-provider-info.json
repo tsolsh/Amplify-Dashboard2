@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quasardemo-dev-155159-authRole",
+      "UnauthRoleArn": "arn:aws:iam::522325266889:role/amplify-quasardemo-dev-155159-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::522325266889:role/amplify-quasardemo-dev-155159-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-quasardemo-dev-155159-deployment",
+      "UnauthRoleName": "amplify-quasardemo-dev-155159-unauthRole",
+      "StackName": "amplify-quasardemo-dev-155159",
+      "StackId": "arn:aws:cloudformation:eu-central-1:522325266889:stack/amplify-quasardemo-dev-155159/a74c6d10-779c-11ec-8ed5-06f78b2d87b2",
+      "AmplifyAppId": "d3r3p2g31qwvlt"
+    },
+    "categories": {
+      "auth": {
+        "quasardemo98576a36": {
+          "userPoolId": "eu-central-1_Wjbj1e5UD",
+          "userPoolName": "RAPHAEL",
+          "webClientId": "6ft0bafrf58m7dihufk6q7dvkh",
+          "nativeClientId": "6ft0bafrf58m7dihufk6q7dvkh"
+        }
+      }
+    }
+  }
+}

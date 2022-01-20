@@ -1,0 +1,42 @@
+{
+    "LiveSignalsPreview": [
+        {
+            "channel":    "ECG",
+            "seconds":       10,
+            "min-scale":   -400,
+            "max-scale":   1200, 
+            "step":         200, 
+            "showLegend": false,
+            "showTimes":  false
+        },
+        {
+            "channel": "Respiration",
+            "seconds":       10,
+            "min-scale":   -600,
+            "max-scale":    600, 
+            "step":         150, 
+            "showLegend": false,
+            "showTimes":  false
+        }
+    ],
+    "LiveSignals": [
+        {
+            "channel":   "ECG",
+            "seconds":      15,
+            "min-scale":  -400,
+            "max-scale":  1200, 
+            "step":        200, 
+            "showLegend": true,
+            "showTimes":  true
+        },
+        {
+            "channel": "Respiration",
+            "seconds":      15,
+            "min-scale":  -600,
+            "max-scale":   600, 
+            "step":        150, 
+            "showLegend": true,
+            "showTimes":  true
+        }
+    ]
+}
